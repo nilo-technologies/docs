@@ -25,10 +25,10 @@
     },
     "products": [
       {
-        "product": "Untitled Product",
+        "product": "Nilo",
         "tabs": [
           {
-            "tab": "Untitled Tab",
+            "tab": "Nilo",
             "groups": [
               {
                 "group": "Getting Started",
@@ -50,6 +50,7 @@
           },
           {
             "tab": "Guides",
+            "hidden": true,
             "groups": [
               {
                 "group": "Getting started",
@@ -87,6 +88,7 @@
           },
           {
             "tab": "API reference",
+            "hidden": true,
             "groups": [
               {
                 "group": "API documentation",
